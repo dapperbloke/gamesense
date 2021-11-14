@@ -76,7 +76,7 @@ local weaponNames = {
 }
 
 local fonts = {
-    esp = surface.create_font('Roboto', 14, 14, 0x010),
+    esp = surface.create_font('Segoe UI', 14, 14, 0x010),
     flags = surface.create_font('Smallest Pixel-7', 10, 1, 0x200)
 }
 
